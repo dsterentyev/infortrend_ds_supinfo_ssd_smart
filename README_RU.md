@@ -13,7 +13,7 @@
 ## Пример использования:
 
 ```
-./supinfo_decoder.php < 774023_ssd_20250430-144600196\ \(example\).txt
+$ php supinfo_decoder.php < 774023_ssd_20250430-144600196\ \(example\).txt
 Slot: 1
 Model: Micron_5300_MTFDDAK1T9TDT               
 01h - Raw read errors:   0
