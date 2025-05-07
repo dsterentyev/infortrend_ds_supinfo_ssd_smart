@@ -1,5 +1,6 @@
 # infortrend_ds_supinfo_ssd_smart
-Utility for parsing diagnostic file of Infortrend DS storage system with information about SSDs used from supportinfo_XXXXXXX.zip file and displaying their main SMART attributes
+
+Utility for parsing a diagnostic file with information about used SSDs from the file supportinfo_XXXXXXX.zip and displaying their basic SMART attributes 
 
 ## To use it, you need the following:
 
