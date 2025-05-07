@@ -12,7 +12,7 @@ You need installed console PHP in 64-bit environment. Utility was developed for 
 ## Example of usage:
 
 ```
-php supinfo_decoder.php < 774023_ssd_20250430-144600196\ \(example\).txt
+$ php supinfo_decoder.php < 774023_ssd_20250430-144600196\ \(example\).txt
 Slot: 1
 Model: Micron_5300_MTFDDAK1T9TDT
 01h - Raw read errors: 0
