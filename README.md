@@ -4,7 +4,7 @@ Utility for parsing a diagnostic file with information about used SSDs from the 
 
 ## To use it, you need the following:
 
-- create and download archive of diagnostic information (using System -> Export System Information command)
+- create and download archive of diagnostic information (using SANWatch/RaidWatch command *System -> Export System Information*)
 - open archive and extract file NNNNN_ssd_NNNNNN-NNNNN.txt (N - numbers)
 - run script supinfo_decoder.php in console, passing this text file througth pipe to STDIN.
 
