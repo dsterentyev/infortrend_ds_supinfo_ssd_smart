@@ -40,7 +40,7 @@ function parse_smart($slot, $model, $data)
 		$araw3 = substr($attr, 14, 2) . $araw2;
 		$araw4 = substr($attr, 16, 2) . $araw3;
 		$araw5 = substr($attr, 18, 2) . $araw4;
-		$araw6 = substr($attr, 20, 2) . $araw4;
+		$araw6 = substr($attr, 20, 2) . $araw5;
 		//Micron SSDs - TN-FD-48: 5300 SSD SMART Implementation
 		if(preg_match('/^Micron_/', $model) && in_array($anum, array('01', 'CA', '09', 'F6')))
 		{
